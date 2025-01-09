@@ -186,7 +186,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、メーファールーアン王立大学の市場映像でした、ここまで観ていただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、メー ファー ルアン大学の市場映像でした、ここまで観ていただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
