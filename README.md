@@ -133,7 +133,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">いつもプールを利用させていただいているメーファールーアン大学の一部道路を封鎖して毎週水曜に市場が開催されています<br>画像のクリックでGoogleMapsに飛びます↓</span></h2>
+<h2><span class="yellow">いつもプールを利用させていただいているメー ファー ルアン大学の一部道路を封鎖して毎週水曜に市場が開催されています<br>画像のクリックでGoogleMapsに飛びます↓</span></h2>
 <a href="https://www.google.com/maps/place/メー+ファー+ルアン大学/@20.045732,99.8897967,415m/data=!3m1!1e3!4m6!3m5!1s0x30d700048c69def1:0xa20592e502bc20c9!8m2!3d20.0447877!4d99.8942686!16zL20vMGJnZ3Zt!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MDEwNi4xIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20250108_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20250108_001.JPG" target="_blank"><img src="20250108_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_002.JPG" target="_blank"><img src="20250108_002.JPG" alt="サンプル画像" width="900" /></a>
