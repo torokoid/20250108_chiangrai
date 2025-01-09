@@ -121,41 +121,7 @@ p.note { display: none; }
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/01/08 、王立大学の校内で開催される市場を訪れました !!!</marquee></span></h1>
-<a href="20250108_001.png" target="_blank"><img src="20250108_001.png" alt="サンプル画像" width="900" /></a>
-<a href="20250108_001.JPG" target="_blank"><img src="20250108_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_002.JPG" target="_blank"><img src="20250108_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_003.JPG" target="_blank"><img src="20250108_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_004.JPG" target="_blank"><img src="20250108_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_005.JPG" target="_blank"><img src="20250108_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_006.JPG" target="_blank"><img src="20250108_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_007.JPG" target="_blank"><img src="20250108_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_008.JPG" target="_blank"><img src="20250108_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_009.JPG" target="_blank"><img src="20250108_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_010.JPG" target="_blank"><img src="20250108_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_011.JPG" target="_blank"><img src="20250108_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_012.JPG" target="_blank"><img src="20250108_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_013.JPG" target="_blank"><img src="20250108_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_014.JPG" target="_blank"><img src="20250108_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_015.JPG" target="_blank"><img src="20250108_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_016.JPG" target="_blank"><img src="20250108_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_017.JPG" target="_blank"><img src="20250108_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_018.JPG" target="_blank"><img src="20250108_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_019.JPG" target="_blank"><img src="20250108_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_020.JPG" target="_blank"><img src="20250108_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_021.JPG" target="_blank"><img src="20250108_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_022.JPG" target="_blank"><img src="20250108_022.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_023.JPG" target="_blank"><img src="20250108_023.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_024.JPG" target="_blank"><img src="20250108_024.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_025.JPG" target="_blank"><img src="20250108_025.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_026.JPG" target="_blank"><img src="20250108_026.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_027.JPG" target="_blank"><img src="20250108_027.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_028.JPG" target="_blank"><img src="20250108_028.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_029.JPG" target="_blank"><img src="20250108_029.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_030.JPG" target="_blank"><img src="20250108_030.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_031.JPG" target="_blank"><img src="20250108_031.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_032.JPG" target="_blank"><img src="20250108_032.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_033.JPG" target="_blank"><img src="20250108_033.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250108_034.JPG" target="_blank"><img src="20250108_034.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 
@@ -167,12 +133,58 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">既出の画像ですが、タイ人の車のインパネに鎮座する仏像<br>この車にはルームミラーからもぶら下がってます</span></h2>
+<h2><span class="yellow">いつもプールを利用させていただいているメーファールーアン大学の一部道路を封鎖して毎週水曜開催されています<br>画像のクリックでGoogleMapsに飛びます↓</span></h2>
+<a href="https://www.google.com/maps/place/メー+ファー+ルアン大学/@20.045732,99.8897967,415m/data=!3m1!1e3!4m6!3m5!1s0x30d700048c69def1:0xa20592e502bc20c9!8m2!3d20.0447877!4d99.8942686!16zL20vMGJnZ3Zt!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MDEwNi4xIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20250108_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20250108_001.JPG" target="_blank"><img src="20250108_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_002.JPG" target="_blank"><img src="20250108_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_003.JPG" target="_blank"><img src="20250108_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_004.JPG" target="_blank"><img src="20250108_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_005.JPG" target="_blank"><img src="20250108_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_006.JPG" target="_blank"><img src="20250108_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_007.JPG" target="_blank"><img src="20250108_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_008.JPG" target="_blank"><img src="20250108_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_009.JPG" target="_blank"><img src="20250108_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_010.JPG" target="_blank"><img src="20250108_010.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">町の市場と違って、客層が若いです</span></h2>
+<a href="20250108_011.JPG" target="_blank"><img src="20250108_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_012.JPG" target="_blank"><img src="20250108_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_013.JPG" target="_blank"><img src="20250108_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_014.JPG" target="_blank"><img src="20250108_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_015.JPG" target="_blank"><img src="20250108_015.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">食べ物も若者向けで、揚げ物がメイン</span></h2>
+<a href="20250108_016.JPG" target="_blank"><img src="20250108_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_017.JPG" target="_blank"><img src="20250108_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_018.JPG" target="_blank"><img src="20250108_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_019.JPG" target="_blank"><img src="20250108_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一般のお客さんも、ごく少数ですが来てました</span></h2>
+<a href="20250108_020.JPG" target="_blank"><img src="20250108_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_021.JPG" target="_blank"><img src="20250108_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_022.JPG" target="_blank"><img src="20250108_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_023.JPG" target="_blank"><img src="20250108_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_024.JPG" target="_blank"><img src="20250108_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ここの学生は学力はトップクラス、実家は富裕層。中には食べ過ぎの生徒さんも。</span></h2>
+<a href="20250108_025.JPG" target="_blank"><img src="20250108_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_026.JPG" target="_blank"><img src="20250108_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_027.JPG" target="_blank"><img src="20250108_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">揚げ物ばかりで食べられないので、そろそろお暇します</span></h2>
+<a href="20250108_028.JPG" target="_blank"><img src="20250108_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_029.JPG" target="_blank"><img src="20250108_029.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">町の市場にあるようなものもほぼありました</span></h2>
+<a href="20250108_030.JPG" target="_blank"><img src="20250108_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_031.JPG" target="_blank"><img src="20250108_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_032.JPG" target="_blank"><img src="20250108_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_033.JPG" target="_blank"><img src="20250108_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_034.JPG" target="_blank"><img src="20250108_034.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
-<h2><span class="yellow">以上、今回はちょっと毛色の違った話でしたが、ここまで観ていただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、メーファールーアン王立大学の市場映像でした、ここまで観ていただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
