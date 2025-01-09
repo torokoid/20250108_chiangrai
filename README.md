@@ -154,9 +154,9 @@ p.note { display: none; }
 <a href="20250108_013.JPG" target="_blank"><img src="20250108_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_014.JPG" target="_blank"><img src="20250108_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_015.JPG" target="_blank"><img src="20250108_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250108_016.JPG" target="_blank"><img src="20250108_016.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">食べ物も若者向けで、揚げ物がメイン</span></h2>
-<a href="20250108_016.JPG" target="_blank"><img src="20250108_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_017.JPG" target="_blank"><img src="20250108_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_018.JPG" target="_blank"><img src="20250108_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_019.JPG" target="_blank"><img src="20250108_019.JPG" alt="サンプル画像" width="900" /></a>
@@ -173,7 +173,7 @@ p.note { display: none; }
 <a href="20250108_026.JPG" target="_blank"><img src="20250108_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_027.JPG" target="_blank"><img src="20250108_027.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">揚げ物ばかりで食べられないので、そろそろお暇します</span></h2>
+<h2><span class="yellow">揚げ物ばかりで食べられないので、そろそろおいとまします</span></h2>
 <a href="20250108_028.JPG" target="_blank"><img src="20250108_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250108_029.JPG" target="_blank"><img src="20250108_029.JPG" alt="サンプル画像" width="900" /></a>
 
